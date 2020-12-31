@@ -1,2 +1,3 @@
 # 2019-ASSIP-Research-Internship
-As part of the Aspiring Scientist Summer Internship program (ASSIP) worked under Dr. Buschmann in Bio Engineering department to research the genetherapies.
+2019-2020 Summer: I worked under Dr. Buschmann in George Mason University's Bioengineering Department to develop efficient protein therapy carriers using Ribogreen dye, microarray scanners, and statistical analysis.
+
